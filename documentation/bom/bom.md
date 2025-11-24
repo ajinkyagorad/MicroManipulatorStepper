@@ -3,12 +3,12 @@
 ## Mechanics
 | Name | Qty | Description | Comments | Suggested link | Image |
 |------|-----|-------------|----------|----------------|-------|
-| Steel ball | 12 | Ø1.25 mm (0.05") | Precision G10 or better. Can be sourced from small ball bearings | |
+| Steel ball | 12 | Ø1.25 mm (0.05") | Precision G10 or better. Can be sourced from small ball bearings | [Aliexpress](https://www.aliexpress.com/item/1005003767626760.html)|
 | PU stretch cord | 1 m | Ø1mm | e.g. "Stretch Magic" or "Magic String" | [Aliexpress](https://www.aliexpress.us/item/3256805953910514.html)| ![Pu strech cord](images/PU_StretchCord.png)|
-| Neodym Cylinder Magnet | 70 | Ø3mm h=4 mm | N42 Grade | [Ebay Link](https://www.ebay.de/itm/365333642187?var=635110190027)|
-| Brass Pipe | 1 m | OD=Ø2mm ID=Ø1 mm |  | [Amazon](https://a.co/d/1pRFmtf)| ![Brass Pipe](images/BrassPipe.png)|
-| M2 Screw | 12 | M2×12 mm, Countersunk |  | |
-| M3 Grub Screw | 6 | M3×4 |  | |
+| Neodym Cylinder Magnet | 70 | Ø3mm h=4 mm | N42 Grade | [Aliexpress](https://www.aliexpress.com/item/1005009728022641.html) [Ebay Link](https://www.ebay.de/itm/365333642187?var=635110190027)|
+| Brass Pipe | 1 m | OD=Ø2mm ID=Ø1 mm |  | [Aliexpress](https://www.aliexpress.com/item/1005009917021857.html) [Amazon](https://a.co/d/1pRFmtf)| ![Brass Pipe](images/BrassPipe.png)|
+| M2 Screw | 12 | M2×12 mm, Countersunk |  |  [Aliexpress](https://www.aliexpress.com/item/1005006750854449.html)|
+| M3 Grub Screw | 6 | M3×4 |  |[Aliexpress](https://www.aliexpress.com/item/1005005384901964.html) |
 
 ## Electronics
 | Name | Qty | Description | Comments | Suggested link | Image |
