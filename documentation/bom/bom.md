@@ -14,7 +14,7 @@
 | Name | Qty | Description | Comments | Suggested link | Image |
 |------|-----|-------------|----------|----------------|-------|
 | DC-DC Step Down Module | 1 | 4.75–23 V Step-Down Buck Converter |  | [Aliexpress](https://www.aliexpress.us/item/3256806752772875.html)| ![DC-DC Step Down](images/DC_DC-StepDown.png)|
-| (1N5819) OR (PMEG4010) | 1 | Diode (through-hole or SMD) |  | |
+| (1N5819) OR (PMEG4010) | 1 | Diode (through-hole or SMD) |  | [Aliexpress](https://www.aliexpress.com/item/1005009831237797.html)|
 | Raspberry Pi Pico 2 | 1 | Microcontroller board |  | | ![Raspberry Pi Pico 2](images/RaspberryPiPico2.png)|
 | MT6835 Magnetic Encoder Module | 3 | Magnetic encoder |  | [Aliexpress](https://www.aliexpress.us/item/3256808005140674.html)| ![MT6835 Magnetic Encoder Module](images/MT6835.png)|
 | TB6612FNG Driver | 3 | |  | [Aliexpress](https://www.aliexpress.us/item/3256806060073976.html)| ![TB6612FNG Driver](images/TB6612FNG.png)|
@@ -24,7 +24,7 @@
 | 2 Pin Power Header | 1 | 7.5 mm pitch |  | |
 | 4 Pin Header | 4 | 2.5 mm pitch |  | |
 | 8 Pin Header | 1 | 2.0 mm pitch |  | |
-| NEMA 17 Stepper Motor | 3 | Body ≤ 38 mm | Body length <= 38mm | |
+| NEMA 17 Stepper Motor | 3 | Body ≤ 38 mm | Body length <= 38mm | [Aliexpress](https://www.aliexpress.com/item/1005010065870610.html) |
 
 ## 3D Printing
 | Name | Qty | Description | Comments | Image |
